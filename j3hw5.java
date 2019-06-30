@@ -1,7 +1,7 @@
-import java.util.Arrays;
+﻿import java.util.Arrays;
 import java.util.ArrayList;
-import java.util.concurrent.CountDownLatch; // for start/finish
-import java.util.concurrent.Semaphore;      // for tunnel
+import java.util.concurrent.CountDownLatch; 
+import java.util.concurrent.Semaphore;      
 
 public class j3hw5 {
     public static final int CARS_COUNT = 4;
